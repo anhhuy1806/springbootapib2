@@ -1,4 +1,4 @@
-package com.se.bt2_nguyenthanhtu_18045511.entity;
+package com.se.bt2_nguyenanhhuy_18020831.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

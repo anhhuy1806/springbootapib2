@@ -1,10 +1,10 @@
-package com.se.bt2_nguyenthanhtu_18045511;
+package com.se.bt2_nguyenanhhuy_18020831;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Bt2NguyenThanhTu18045511ApplicationTests {
+class Bt2NguyenAnhHuy18020831ApplicationTests {
 
     @Test
     void contextLoads() {
